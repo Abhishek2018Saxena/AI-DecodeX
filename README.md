@@ -72,7 +72,7 @@ Unlike traditional paper review systems, AI DecodeX combines paper intelligence,
 ---
 
 ## 📹 Demo Video
-Google Drive Demo Link: 
+Google Drive Demo Link:https://drive.google.com/file/d/1M2l-sUEULug8EHutjdWBSEdc5i72JhVi/view?usp=drivesdk
 
 ---
 
